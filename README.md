@@ -1,6 +1,6 @@
 Unity Perlin Noise
 
 
-![Alt text](PerlinColor.gif)
+![](PerlinColor.gif)
 </br>
 ![](PerlinMesh.gif)
